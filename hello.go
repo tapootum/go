@@ -1,6 +1,6 @@
 package main
 import "fmt"
 func main() {
-	fmt.Printf("Hello, TaPooTum\n")
+	fmt.Printf("Hello, TaPooTumChannel\n")
 }
 
